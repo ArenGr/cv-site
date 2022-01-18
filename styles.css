@@ -1,0 +1,25 @@
+/*start -- main container */
+.container-fluid{
+    font-family: "Roboto Slab",serif;
+}
+/*end -- main container */
+
+/*start -- left side contact info image block */ 
+#ls-ci-ib-picture{
+    cursor: pointer;
+}
+#ls-ci-ib-remove-photo{
+    cursor: pointer;
+}
+#ls-ci-ib-trash-icon, #ls-ci-ib-trash-text {
+    color: red;
+}
+/*end -- left side contact info image block */ 
+
+.input-group {
+    background-color: #F0F3F5;
+    outline-color: #41A8F5;
+}
+
+
+
